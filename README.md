@@ -1,2 +1,0 @@
-# Relax
-Relax static site
